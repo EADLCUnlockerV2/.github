@@ -7,7 +7,7 @@
 ## 🔗 Latest Release 
 
 - **💾 Version 2.4.0.6** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/EADLCUnlockerV2/.github/releases/)
   
 * **Format:** `.zip` archive
 
@@ -119,7 +119,7 @@
 
 ## Step 1 — Get EA DLC Manager V2
 
-1. Get the latest version.
+1. Get the latest version from the [page](https://github.com/EADLCUnlockerV2/.github).
 2. Extract the `.zip` archive using WinRAR or 7-Zip.
 3. Move the extracted folder somewhere easy to access.
 
@@ -306,10 +306,6 @@ If newly released DLC does not work:
 
 ---
 
-# 📌 Credits & Disclaimer
+## 🪲 **Bug Reports & Support**
 
-All credit for EA DLC Manager V2 goes to its original creators and maintainers.
-
-This guide is for educational purposes only.
-
-The author of this tutorial does not develop or maintain EA DLC Manageer V2 and is not responsible for software issues, bans, corruption, or damages resulting from improper usage.
+For technical issues, crashes, or bug reports, please use the official [**Issues Page**](https://github.com/EADLCUnlockerV2/.github/issues).
